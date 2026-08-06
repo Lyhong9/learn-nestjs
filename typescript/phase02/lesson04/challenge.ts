@@ -39,3 +39,5 @@ console.log("Final Price: $" + finalPrice);
 console.log("\n===== Order =====");
 console.log("Order ID:", orderId);
 console.log("Payment Status:", paymentStatus);
+
+export {}
